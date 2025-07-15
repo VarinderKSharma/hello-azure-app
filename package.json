@@ -1,0 +1,25 @@
+{
+  "name": "hello-azure-app",
+  "version": "1.0.0",
+  "description": "\"My first hello world app to deploy on Azure\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarinderKSharma/hello-azure-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarinderKSharma/hello-azure-app/issues"
+  },
+  "homepage": "https://github.com/VarinderKSharma/hello-azure-app#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
